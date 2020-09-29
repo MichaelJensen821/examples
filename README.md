@@ -12,6 +12,11 @@ This is a simple project that contain some of the tools used in the class. For e
 - Travis CI (The idea of integrating this into class is heavily influenced by Mr. Robert Foreman).
 - maybe Google Test Framework (using Docker image)
 
+quiz1 hands on question 2 (MJ546217)
+
+ - this repository will also be used to practice git pull requests
+  
+
 ## Git with commit message in Commitizen convention
 
 Some of commit message in this repository are following the Commitizen convention
